@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Jake\Documents\GitHub\1440_HW7\ITAK
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Jake/Documents/GitHub/1440_HW7/ITAK/cmake-build-debug
